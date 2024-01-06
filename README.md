@@ -2,9 +2,10 @@
 traditional machine learning methods
 
 
-Customer Churn Prediction Project
+Customer Churn Prediction 
 
 Overview
+
 This project aims to predict customer churn using machine learning techniques. Customer churn is a critical metric for any business, and being able to predict it can help companies take proactive measures to retain customers.
 
 
